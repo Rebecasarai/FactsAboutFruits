@@ -33,9 +33,10 @@ Lo que hicimos aquí es aprender sobre el uso y desarrollo de las clases de Pyth
 
 Construí un menú interactivo para elegir una opción y seguir adelante para aprender más sobre las frutas, de una manera muy divertida.
 
-   - Tiene un menú
-   - Deja que elijas qué hacer.
-   - Y te da una información interesante sobre las frutas.
+  - Tiene un menú
+  - Deja que elijas qué hacer.
+  - Y te da una información interesante sobre las frutas.
+
 
 ### ¿Qué usé?
 
