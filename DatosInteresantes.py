@@ -1,4 +1,4 @@
-# -*- codign: utf-8 -*-
+# -*- coding: utf-8 -*-
 # !/usr/bin/python
 
 from pip._vendor.distlib.compat import raw_input
